@@ -1,0 +1,17 @@
+# requirements.txt
+streamlit>=1.28.0
+pandas>=2.0.0
+plotly>=5.15.0
+feedparser>=6.0.10
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+ollama>=0.1.7
+python-dotenv>=1.0.0
+markdown>=3.4.0
+schedule>=1.2.0
+sqlite3
+
+# Optional: For advanced features
+gradio>=3.40.0  # Alternative UI framework
+flask>=2.3.0    # If you prefer Flask
+dash>=2.13.0    # Alternative dashboard framework
